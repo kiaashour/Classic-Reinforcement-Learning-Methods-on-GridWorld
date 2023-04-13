@@ -61,4 +61,4 @@ This will install all of the packages listed in the `requirements.txt` file.
 
 To clone this repository, run the following command:
 
-`git clone https://github.com/user/repo.git`
+`git clone https://github.com/kiaashour/Classic-Reinforcement-Learning-Methods-on-GridWorld.git`
