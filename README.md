@@ -51,7 +51,7 @@ It is recommended to use a virtual environment to keep the dependencies for this
 
 To install the dependencies for this project, run the following command:
 
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 This will install all of the packages listed in the `requirements.txt` file.
 
